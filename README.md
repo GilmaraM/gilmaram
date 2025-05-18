@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Bem vindo eo meu Github!✨</h1>
+<h1 align="center">Olá! Bem vindo ao meu Github!✨</h1>
 
 ###
 
@@ -6,14 +6,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GilmaraM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=aura&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GilmaraM&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-###
 <br clear="both">
 
 <div align="right">
   <img height="176" src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png"  />
 </div>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gilmara-a-8b7472117/" target="_blank">
